@@ -1,0 +1,1 @@
+By default, copies of images from OCR evaluation as well as .csvs produced during OCR processes are saved here.
